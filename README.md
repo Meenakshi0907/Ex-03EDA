@@ -18,7 +18,7 @@ Detect and remove all outliers.
 ### STEP 4:
 Plot the counts in the form of Histogram or Bar Graph
 ### STEP 5:
-find the pairwise correlation of all columns in the dataframe(.corr()).
+Find the pairwise correlation of all columns in the dataframe.corr()).
 ### STEP 6:
 Save the final data set into the file.
 # CODE:
